@@ -1,0 +1,65 @@
+ .img1{
+ 	display: block;
+ 	margin: 40px auto;
+  width: 700px;
+  border-radius: 50%;
+  box-shadow: 10px 10px 10px 10px #000;
+
+}
+
+.name{
+	color: #2c3e50;
+	background-color: #33ffff;
+	padding: 10px;
+  margin: 30px auto;
+  width: 700px;
+	border-radius: 15px;
+	border: 10px solid white;
+	box-shadow: 10px 10px 10px 10px #000;
+	font-family: Nunito Sans;
+}
+
+body{
+	background-color: #72747a;
+	background-image: url("https://edge.alluremedia.com.au/m/k/2016/02/gi-modes-sr-the-battle-for-the-rift1.jpg");
+	background-size: cover;
+  margin: auto;
+	background-repeat: no-repeat;
+}
+
+.intro{
+	color:#2c3e50;
+  padding: 10px;
+  margin: 30px auto;
+  width: 700px;
+  background: #33ffff;
+  border: 10px solid white;
+  text-indent: 3%;
+  box-shadow: 10px 10px 10px 10px #000;
+  font-family: Nunito Sans;
+}
+
+.list{
+	color:#2c3e50;
+  padding: 10px;
+  margin: 30px auto;
+  width: 700px;
+  background: #33ffff;
+  border: 10px solid white;
+  box-shadow: 10px 10px 10px 10px #000;
+  font-family: Nunito Sans;
+}
+
+.icons{
+	color:#2c3e50;
+  padding: 10px;
+  margin: 30px auto;
+  width: 700px;
+  background: #33ffff;
+  border: 10px solid white;
+  box-shadow: 10px 10px 10px 10px #000;
+}
+
+.links{
+	font-family: Nunito Sans;
+}
